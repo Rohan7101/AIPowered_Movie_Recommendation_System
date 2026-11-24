@@ -1,0 +1,101 @@
+movie_id,title,genre,year,description
+1,Interstellar,Sci-Fi,2014,A team of astronauts travels through space to save humanity.
+2,Inception,Sci-Fi,2010,A thief enters dreams to steal information and plant ideas.
+3,The Dark Knight,Action,2008,Batman fights the Joker to protect Gotham City.
+4,The Avengers,Action,2012,Superheroes unite to protect Earth from an alien invasion.
+5,Titanic,Romance,1997,Two people from different social classes fall in love aboard a ship.
+6,The Notebook,Romance,2004,A young couple experiences love and separation over many years.
+7,The Conjuring,Horror,2013,Paranormal investigators help a family facing supernatural events.
+8,IT,Horror,2017,A group of children confronts a terrifying supernatural clown.
+9,3 Idiots,Comedy,2009,Three engineering students navigate friendship and academic pressure.
+10,PK,Comedy,2014,An alien explores human beliefs and social traditions.
+11,Avatar,Sci-Fi,2009,A marine explores an alien planet and becomes involved in its conflict.
+12,John Wick,Action,2014,A retired assassin returns to the criminal underworld seeking revenge.
+13,Coco,Animation,2017,A young boy enters the land of the dead to discover his family history.
+14,Toy Story,Animation,1995,A group of toys comes alive when humans are not watching.
+15,Shutter Island,Thriller,2010,A detective investigates a mysterious disappearance at a psychiatric hospital.
+16,Mad Max: Fury Road,Action,2015,A survivor and a rebel driver flee a tyrant across a desert in armored vehicles.
+17,Mission: Impossible - Fallout,Action,2018,A secret agent races to stop stolen plutonium from being used in a terrorist attack.
+18,Gladiator,Action,2000,A betrayed Roman general fights as a gladiator to seek justice.
+19,Top Gun: Maverick,Action,2022,A veteran fighter pilot trains a team for a dangerous aerial mission.
+20,The Matrix,Sci-Fi,1999,A hacker discovers simulated reality and joins a rebellion against machines.
+21,The Martian,Sci-Fi,2015,An astronaut stranded on Mars uses science to survive until rescue.
+22,Gravity,Sci-Fi,2013,Two astronauts struggle to survive after debris destroys their spacecraft.
+23,Arrival,Sci-Fi,2016,A linguist communicates with alien visitors to understand their purpose on Earth.
+24,Blade Runner 2049,Sci-Fi,2017,A replicant hunter uncovers a secret that could transform human society.
+25,Dune,Sci-Fi,2021,A young nobleman travels to a desert planet central to an interstellar struggle.
+26,Edge of Tomorrow,Sci-Fi,2014,A soldier relives the same battle against aliens while learning to fight.
+27,Ex Machina,Sci-Fi,2014,A programmer evaluates an intelligent humanoid robot in an isolated laboratory.
+28,E.T. the Extra-Terrestrial,Sci-Fi,1982,A boy befriends a stranded alien and helps him return home.
+29,2001: A Space Odyssey,Sci-Fi,1968,Astronauts investigate a mysterious object during a voyage toward Jupiter.
+30,Star Wars: A New Hope,Sci-Fi,1977,A farm boy joins rebels and space pilots fighting an oppressive galactic empire.
+31,La La Land,Romance,2016,An aspiring actress and a jazz pianist fall in love while chasing careers.
+32,Pride & Prejudice,Romance,2005,A spirited young woman and a reserved gentleman overcome prejudice to find love.
+33,Before Sunrise,Romance,1995,Two strangers meet on a train and spend a night talking in Vienna.
+34,Notting Hill,Romance,1999,A London bookseller unexpectedly falls in love with a famous actress.
+35,Crazy Rich Asians,Romance,2018,A professor visits Singapore and discovers her boyfriend comes from a wealthy family.
+36,Jab We Met,Romance,2007,A cheerful woman and a heartbroken businessman connect during a train journey.
+37,Veer-Zaara,Romance,2004,An Indian pilot and a Pakistani woman sustain their love despite years of separation.
+38,Dilwale Dulhania Le Jayenge,Romance,1995,Two young travelers fall in love while navigating family expectations.
+39,A Walk to Remember,Romance,2002,Two high school students develop a life-changing relationship.
+40,Me Before You,Romance,2016,A caregiver and a man with paralysis form an unexpected emotional bond.
+41,Get Out,Horror,2017,A young man visits his girlfriend family and uncovers a disturbing secret.
+42,A Quiet Place,Horror,2018,A family survives in silence while creatures hunt anything that makes noise.
+43,Hereditary,Horror,2018,A grieving family faces terrifying supernatural events after a death.
+44,The Exorcist,Horror,1973,A mother seeks help when her daughter shows signs of demonic possession.
+45,Insidious,Horror,2010,Parents seek paranormal help when their son falls into a mysterious coma.
+46,The Ring,Horror,2002,A journalist investigates a cursed videotape linked to deadly events.
+47,Sinister,Horror,2012,A true-crime writer finds disturbing home movies connected to murders.
+48,The Babadook,Horror,2014,A mother and son confront a sinister presence tied to a strange storybook.
+49,Train to Busan,Horror,2016,Passengers fight to survive a zombie outbreak aboard a speeding train.
+50,The Descent,Horror,2005,A group of cave explorers encounters terrifying creatures underground.
+51,Shaun of the Dead,Comedy,2004,An aimless man tries to save his friends during a zombie outbreak with comic mishaps.
+52,The Hangover,Comedy,2009,Friends wake after a chaotic bachelor party and search for their missing companion.
+53,Superbad,Comedy,2007,Two awkward teenagers try to enjoy one last party before graduation.
+54,Home Alone,Comedy,1990,A child accidentally left at home defends his house from burglars.
+55,Hera Pheri,Comedy,2000,Three struggling men become entangled in a chaotic ransom scheme.
+56,Welcome,Comedy,2007,A man falls for a woman whose brothers are involved in organized crime.
+57,Munna Bhai M.B.B.S.,Comedy,2003,A kindhearted gangster enrolls in medical school to impress his parents.
+58,Chup Chup Ke,Comedy,2006,A man pretending to be unable to speak becomes caught in comic misunderstandings.
+59,Golmaal: Fun Unlimited,Comedy,2006,Four friends create a series of hilarious lies and mistaken identities.
+60,Dhamaal,Comedy,2007,Four friends race to find hidden treasure while a police officer pursues them.
+61,Andaz Apna Apna,Comedy,1994,Two scheming young men compete to win a wealthy heiress heart.
+62,The Grand Budapest Hotel,Comedy,2014,A hotel concierge and his lobby boy get caught in a theft and murder mystery.
+63,Groundhog Day,Comedy,1993,A cynical weather reporter repeatedly lives the same day.
+64,Knives Out,Thriller,2019,A detective investigates the suspicious death of a wealthy mystery novelist.
+65,Gone Girl,Thriller,2014,A husband becomes the focus of suspicion after his wife disappears.
+66,Se7en,Thriller,1995,Two detectives hunt a serial killer whose crimes reflect the seven deadly sins.
+67,Zodiac,Thriller,2007,Journalists and detectives obsess over identifying a cryptic serial killer.
+68,Prisoners,Thriller,2013,A desperate father searches for his missing daughter as police investigate.
+69,The Prestige,Thriller,2006,Two rival magicians push their obsession with illusion to dangerous extremes.
+70,Memento,Thriller,2000,A man with short-term memory loss investigates his wife murder using notes.
+71,Andhadhun,Thriller,2018,A pianist pretending to be blind witnesses a crime and enters a dangerous conspiracy.
+72,Drishyam,Thriller,2015,A father devises a clever plan to protect his family during a police investigation.
+73,Kahaani,Thriller,2012,A pregnant woman searches Kolkata for her missing husband and uncovers secrets.
+74,The Silence of the Lambs,Thriller,1991,An FBI trainee consults an imprisoned killer to track another murderer.
+75,Finding Nemo,Animation,2003,A clownfish crosses the ocean to find his missing son.
+76,Inside Out,Animation,2015,Emotions inside a young girl mind help her adjust to a new city.
+77,Up,Animation,2009,An elderly widower flies his house to South America with an unexpected companion.
+78,WALL-E,Animation,2008,A lonely robot cleaning an abandoned Earth discovers friendship and hope.
+79,Zootopia,Animation,2016,A rabbit police officer and a fox investigate disappearances in an animal city.
+80,Frozen,Animation,2013,Two sisters struggle with magical ice powers and the meaning of family love.
+81,Spirited Away,Animation,2001,A girl enters a spirit world and works to rescue her transformed parents.
+82,The Lion King,Animation,1994,A young lion must reclaim his place after tragedy divides his family.
+83,The Shawshank Redemption,Drama,1994,A banker sentenced to prison builds friendships and plans for freedom.
+84,Forrest Gump,Drama,1994,A kind man experiences major historical events while searching for love and purpose.
+85,The Pursuit of Happyness,Drama,2006,A struggling father works toward a better future while caring for his son.
+86,Taare Zameen Par,Drama,2007,An art teacher helps a child with learning difficulties discover his strengths.
+87,Dangal,Drama,2016,A former wrestler trains his daughters to become champion athletes.
+88,The Social Network,Drama,2010,A college student creates a social network while friendships and lawsuits unravel.
+89,Whiplash,Drama,2014,An ambitious drummer faces intense pressure from a demanding music instructor.
+90,12 Angry Men,Drama,1957,A juror challenges others to reconsider evidence during a murder trial.
+91,The Green Mile,Drama,1999,A prison guard encounters an inmate with extraordinary healing abilities.
+92,Rocky,Drama,1976,An underdog boxer trains for an unexpected shot at the heavyweight championship.
+93,Parasite,Thriller,2019,A poor family infiltrates a wealthy household before secrets lead to disaster.
+94,Casino Royale,Action,2006,A newly promoted secret agent enters a high-stakes poker game to stop terrorist financing.
+95,Black Panther,Action,2018,A superhero king protects his technologically advanced nation from a challenger.
+96,Spider-Man: Into the Spider-Verse,Animation,2018,A teenager becomes Spider-Man and teams up with heroes from parallel universes.
+97,The Truman Show,Drama,1998,A man discovers his entire everyday life is secretly a television production.
+98,Die Hard,Action,1988,A police officer battles criminals holding hostages in a skyscraper.
+99,The Raid,Action,2011,An elite police squad fights through a building controlled by a crime lord.
+100,RRR,Action,2022,Two revolutionaries form a friendship while resisting British colonial rule.
