@@ -30,27 +30,26 @@ The application runs through a simple Python terminal interface.
 
 ## 3. Key Features
 
-- Natural-language movie preference input.
-- Dataset containing 100 movies across 8 genres.
-- Semantic similarity search using FAISS.
-- LangChain-based movie retrieval.
-- Similarity score and genre-based filtering.
-- Retrieval of up to five movie candidates.
-- AI-generated recommendations with explanations.
-- Simple Python terminal interface.
-- Automated testing using Pytest.
+- Natural-language movie preference input
+- Dataset containing 100 movies across 8 genres
+- Semantic similarity search using FAISS
+- LangChain-based movie retrieval
+- Similarity and genre-based filtering
+- Up to five retrieved movie candidates
+- AI-generated recommendations with explanations
+- Simple Python terminal interface
+- Automated testing using Pytest
 
 ## 4. How the System Works
 
 1. **Dataset Loading:** Pandas loads movie information from `movies.csv`.
-2. **Document Creation:** Each movie record is converted into a LangChain Document containing movie text and metadata.
-3. **Embedding Generation:** Hugging Face Sentence Transformers converts movie descriptions into numerical vectors through LangChain's `HuggingFaceEmbeddings` integration.
-4. **Vector Store Creation:** LangChain's FAISS integration stores the movie embeddings for similarity searching.
-5. **User Input:** The user enters a movie preference in natural language.
-6. **Movie Retrieval:** The query is converted into an embedding, and FAISS retrieves similar movie Documents.
-7. **Filtering:** The system applies similarity score and genre-based filtering to select movie candidates.
-8. **LLM Processing:** LangChain sends the retrieved movie details to Nemotron through OpenRouter.
-9. **Final Output:** Nemotron generates personalized movie recommendations with explanations.
+2. **Embedding Generation:** Sentence Transformers converts movie information into numerical vectors.
+3. **Vector Store:** FAISS indexes the movie embeddings for similarity searching.
+4. **User Input:** The user enters a movie preference in natural language.
+5. **Movie Retrieval:** LangChain's FAISS integration retrieves similar movies.
+6. **Filtering:** The system applies similarity and genre-based filtering to select candidates.
+7. **LLM Processing:** LangChain sends the retrieved movie details to Nemotron through OpenRouter.
+8. **Final Output:** Nemotron generates personalized recommendations with explanations.
 
 ### Application Workflow
 
