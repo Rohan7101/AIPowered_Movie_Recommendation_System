@@ -111,9 +111,6 @@ AI_Movie_Recommendation_System/
 |-- tests/
 |   |-- test_recommender.py
 |
-|-- .vscode/
-|   |-- launch.json
-|
 |-- requirements.txt
 |-- README.md
 |-- .gitignore
