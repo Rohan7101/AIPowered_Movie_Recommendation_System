@@ -55,43 +55,22 @@ The application runs through a simple Python terminal interface.
 ### Application Workflow
 
 ```text
-       Movie Dataset (CSV)
-                |
-                v
-       Pandas Data Loading
-                |
-                v
-       LangChain Documents
-                |
-                v
-   Hugging Face Sentence Transformers
-                |
-                v
-        Movie Embeddings
-                |
-                v
-         FAISS Vector Store
-                |
-                |
-      User Movie Preference
-                |
-                v
-       Query Embedding
-                |
-                v
-       FAISS Similarity Search
-                |
-                v
-     Similarity & Genre Filtering
-                |
-                v
-      LangChain + Nemotron LLM
-                |
-                v
-       OpenRouter API
-                |
-                v
-       Movie Recommendations
+User Movie Preference
+         |
+         v
+Sentence Transformers
+         |
+         v
+LangChain + FAISS
+         |
+         v
+Similarity & Genre Filtering
+         |
+         v
+Nemotron LLM via OpenRouter
+         |
+         v
+Movie Recommendations
 ```
 
 ## 5. Project Structure
